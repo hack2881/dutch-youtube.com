@@ -1,7 +1,6 @@
 ||m.youtube.co.id^
 ||m.youtube.az^
 ||m.youtube.co^
-||www.m.youtube.com^
 ||m.youtube.com.au^
 ||m.es.youtube.com^
 ||m.youtube.es^
