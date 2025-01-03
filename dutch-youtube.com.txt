@@ -1,7 +1,7 @@
 ||facebook.com##.ad-container
+||facebook.com##[data-testid="ad_unit"]
 ||facebook.com##.ads-ad
 ||facebook.com##.ad-placement
-||facebook.com##[data-testid="ad_unit"]
 ----------------------------------------
 ||temu.com##.ads-ad
 ||temu.com##.ad-container
