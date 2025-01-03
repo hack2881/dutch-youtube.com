@@ -21,3 +21,11 @@ play.google.com##.ad-placement
 bestel.simpel.nl##.ads-ad
 bestel.simpel.nl##.ad-container
 bestel.simpel.nl##.ad-placement
+--------------------------------
+go.dianwubkes.nl##.ads-ad
+go.dianwubkes.nl##.ad-container
+go.dianwubkes.nl##.ad-placement
+--------------------------------
+clickfunnels.com##.ads-ad
+clickfunnels.com##.ad-container
+clickfunnels.com##.ad-placement
