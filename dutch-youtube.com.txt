@@ -1,7 +1,3 @@
-||youtube.com##.ads-ad
-||youtube.com##.ad-container
-||youtube.com##.ad-placement
------------------------------
 ||facebook.com##.ad-container
 ||facebook.com##[data-testid="ad_unit"]
 ||facebook.com##.ads-ad
