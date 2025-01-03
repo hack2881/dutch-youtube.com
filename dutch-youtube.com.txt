@@ -6,7 +6,6 @@
 ||temu.com##.ads-ad
 ||temu.com##.ad-container
 ||temu.com##.ad-placement
-||temu.com##[data-testid="ad_unit"]
 ------------------------------------
 ||tiktok.com##.ads-ad
 ||tiktok.com##.ad-container
