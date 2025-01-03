@@ -33,3 +33,7 @@
 ||711.nl##.ads-ad^
 ||711.nl##.ad-container^
 ||711.nl##.ad-placement^
+-------------------------
+||remarkt.nl##.ads-ad^
+||remarkt.nl##.ad-container^
+||remarkt.nl##.ad-placement^
