@@ -1,14 +1,11 @@
 bol.com##.ads-ad
 bol.com##.ad-container
 bol.com##.ad-placement
-bol.com##[data-testid="ad_unit"]
 -----------------------------------
 odido.nl##.ads-ad
 odido.nl##.ad-container
 odido.nl##.ad-placement
-odido.nl##[data-testid="ad_unit"]
 ------------------------------------
 thuisbezorgd.nl##.ads-ad
 thuisbezorgd.nl##.ad-container
 thuisbezorgd.nl##.ad-placement
-thuisbezorgd.nl##[data-testid="ad_unit"]
