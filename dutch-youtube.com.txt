@@ -32,3 +32,13 @@
 ||odido.nl##.ad-container
 ||odido.nl##.ad-placement
 ||odido.nl##[data-testid="ad_unit"]
+------------------------------------
+||thuisbezorgd.nl##.ads-ad
+||thuisbezorgd.nl##.ad-container
+||thuisbezorgd.nl##.ad-placement
+||thuisbezorgd.nl##[data-testid="ad_unit"]
+-------------------------------------------
+||x.com##.ads-ad
+||x.com##.ad-container
+||x.com##.ad-placement
+||x.com##[data-testid="ad_unit"]
