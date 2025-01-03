@@ -17,3 +17,7 @@ speedyfindings.net##.ad-placement
 play.google.com##.ads-ad
 play.google.com##.ad-container
 play.google.com##.ad-placement
+-------------------------------
+bestel.simpel.nl##.ads-ad
+bestel.simpel.nl##.ad-container
+bestel.simpel.nl##.ad-placement
