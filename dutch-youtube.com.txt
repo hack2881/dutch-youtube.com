@@ -33,7 +33,6 @@
 |m.jp.youtube.com^
 |m.youtube.ca^
 |qa.m.youtube.com^
-|ads.youtube.com^
 |youtube-nocookie.com^
 |m.youtube.com^
 |s.youtube.com^
