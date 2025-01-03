@@ -22,3 +22,7 @@
 ||instagram.com##.ads-ad
 ||instagram.com##.ad-container
 ||instagram.com##.ad-placement
+-------------------------------
+||bol.com##.ads-ad
+||bol.com##.ad-container
+||bol.com##.ad-placement
