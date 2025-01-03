@@ -13,3 +13,7 @@ thuisbezorgd.nl##.ad-placement
 speedyfindings.net##.ads-ad
 speedyfindings.net##.ad-container
 speedyfindings.net##.ad-placement
+----------------------------------
+play.google.com##.ads-ad
+play.google.com##.ad-container
+play.google.com##.ad-placement
