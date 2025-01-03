@@ -34,8 +34,6 @@
 |m.youtube.ca^
 |qa.m.youtube.com^
 |youtube-nocookie.com^
-|m.youtube.com^
-|s.youtube.com^
 |xyz^
 |lstn.net^
 |1e100.net^
