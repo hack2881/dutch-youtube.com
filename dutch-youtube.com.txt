@@ -1,8 +1,3 @@
-|temu.com##.ads-ad
-|temu.com##.ad-container
-|temu.com##.ad-placement
-|temu.com##[data-testid="ad_unit"]
-------------------------------------
 |bol.com##.ads-ad
 |bol.com##.ad-container
 |bol.com##.ad-placement
