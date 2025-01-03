@@ -29,3 +29,7 @@ go.dianwubkes.nl##.ad-placement
 clickfunnels.com##.ads-ad
 clickfunnels.com##.ad-container
 clickfunnels.com##.ad-placement
+--------------------------------
+711.nl##.ads-ad
+711.nl##.ad-container
+711.nl##.ad-placement
