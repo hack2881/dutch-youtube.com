@@ -53,3 +53,7 @@
 ||bunq.com##.ads-ad^
 ||bunq.com##.ad-container^
 ||bunq.com##.ad-placement^
+---------------------------
+||etoro.com##.ads-ad^
+||etoro.com##.ad-container^
+||etoro.com##.ad-placement^
