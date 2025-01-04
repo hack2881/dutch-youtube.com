@@ -1,3 +1,11 @@
+rr*.sn-*.googlevideo.com
+r*.sn-*.googlevideo.com
+r*.googlevideo.com
+------------------------------
+youtube.com$removeparam=ad
+youtube.com$removeparam=ctier
+youtube.com$removeparam=adsid
+---------------------------------------
 ||youtube.com/videoplayback^$important
 ||youtube.com^$inline-script
 -----------------------------
