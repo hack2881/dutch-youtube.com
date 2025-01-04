@@ -7,3 +7,13 @@
 ||bol.com^$popup
 ||bol.com^$third-party
 ||youtube.com^$script,domain=bol.com
+-------------------------------------
+||ads.temu.com^
+||tracking.temu.com^
+||media.temu.com^
+||googlevideo.com^$domain=temu.com
+||youtube.com/get_midroll_info^$domain=temu.com
+||youtube.com/api/stats/ads^
+||temu.com^$popup
+||temu.com^$third-party
+||youtube.com^$script,domain=temu.com
