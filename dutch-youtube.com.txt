@@ -14,6 +14,8 @@
 ||speedyfindings.net##.ad-container^
 ||speedyfindings.net##.ad-placement^
 ----------------------------------
+||s.google.play^
+||m.google.play^
 ||google.play##.ads-ad^
 ||google.play##.ad-container^
 ||google.play##.ad-placement^
