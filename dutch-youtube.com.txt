@@ -30,6 +30,8 @@
 ||clickfunnels.com##.ad-container^
 ||clickfunnels.com##.ad-placement^
 --------------------------------
+||s.711.nl^
+||m.711.nl^
 ||711.nl##.ads-ad^
 ||711.nl##.ad-container^
 ||711.nl##.ad-placement^
@@ -54,6 +56,8 @@
 ||bunq.com##.ad-container^
 ||bunq.com##.ad-placement^
 ---------------------------
+||s.etoro.com^
+||m.etoro.com^
 ||etoro.com##.ads-ad^
 ||etoro.com##.ad-container^
 ||etoro.com##.ad-placement^
