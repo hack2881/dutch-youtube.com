@@ -37,3 +37,7 @@
 ||remarkt.nl##.ads-ad^
 ||remarkt.nl##.ad-container^
 ||remarkt.nl##.ad-placement^
+-----------------------------
+||kansino.nl##.ads-ad^
+||kansino.nl##.ad-container^
+||kansino.nl##.ad-placement^
