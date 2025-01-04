@@ -61,3 +61,7 @@
 ||img.hellofresh.com##.ads-ad^
 ||img.hellofresh.com##.ad-container^
 ||img.hellofresh.com##.ad-placement^
+-------------------------------------
+||jungheinrich.nl##.ads-ad^
+||jungheinrich.nl##.ad-container^
+||jungheinrich.nl##.ad-placement^
