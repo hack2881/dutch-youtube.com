@@ -57,3 +57,7 @@
 ||etoro.com##.ads-ad^
 ||etoro.com##.ad-container^
 ||etoro.com##.ad-placement^
+----------------------------
+||img.hellofresh.com##.ads-ad^
+||img.hellofresh.com##.ad-container^
+||img.hellofresh.com##.ad-placement^
