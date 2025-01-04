@@ -49,3 +49,7 @@
 ||comeon.nl##.ads-ad^
 ||comeon.nl##.ad-container^
 ||comeon.nl##.ad-placement^
+----------------------------
+||bunq.com##.ads-ad^
+||bunq.com##.ad-container^
+||bunq.com##.ad-placement^
