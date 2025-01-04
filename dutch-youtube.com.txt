@@ -41,3 +41,7 @@
 ||kansino.nl##.ads-ad^
 ||kansino.nl##.ad-container^
 ||kansino.nl##.ad-placement^
+-----------------------------
+||budgetthuis.nl##.ads-ad^
+||budgetthuis.nl##.ad-container^
+||budgetthuis.nl##.ad-placement^
