@@ -12,8 +12,12 @@
 ||play.google.com/store/ad^
 ||play.googleapis.com^
 ||gstatic.com/play^
+||m.youtube.com^$removeparam=adsid
+||m.youtube.com^$removeparam=adformat
+||m.youtube.com^$removeparam=play.google.com
+||youtube.com$redirect=nooptext,script,domain=play.google.com
 -----------------------------
-||play.google.com^$important
+||play.google.com^
 ||play-lh.googleusercontent.com^
 ||lh3.googleusercontent.com^$domain=youtube.com
 -------------------------------------------------
