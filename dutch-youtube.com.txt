@@ -1,3 +1,8 @@
+||play.google.com/log^
+||play.google.com/store/ad^
+||play.googleapis.com^
+||gstatic.com/play^
+-----------------------------
 ||play.google.com^$important
 ||play-lh.googleusercontent.com^
 ||lh3.googleusercontent.com^$domain=youtube.com
