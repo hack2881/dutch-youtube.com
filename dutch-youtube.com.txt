@@ -63,6 +63,7 @@
 ||m.youtube.com/youtubei/v1/log_event^$domain=bol.com
 ------------------------------------------------------
 ||ads.temu.com^
+||m.temu.com^
 ||tracking.temu.com^
 ||media.temu.com^
 ||googlevideo.com^$domain=temu.com
