@@ -1,3 +1,7 @@
+||m.youtube.com^$removeparam=ad
+||m.youtube.com^$removeparam=ctier
+||m.youtube.com^$removeparam=adsid
+-----------------------------------
 ||m.youtube.com/get_video_info^
 ||m.youtube.com/get_midroll_info^
 ||m.youtube.com/api/stats/ads^
