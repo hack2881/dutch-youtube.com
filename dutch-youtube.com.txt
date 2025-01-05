@@ -1,3 +1,9 @@
+||m.youtube.com/get_video_info^
+||m.youtube.com/get_midroll_info^
+||m.youtube.com/api/stats/ads^
+||m.youtube.com/youtubei/v1/log_event^
+||m.youtube.com/youtubei/v1/advertiser^
+----------------------------------------
 ||play.google.com/log^
 ||play.google.com/store/ad^
 ||play.googleapis.com^
