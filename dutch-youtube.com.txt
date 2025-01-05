@@ -34,11 +34,6 @@
 ||youtube.com/youtubei/v1/log_event^$domain=play.google.com
 ||youtube.com/api/stats^$domain=play.google.com
 ------------------------------------------------
-||rr*.sn-*.googlevideo.com^
-||r*.sn-*.googlevideo.com^
-||r*.googlevideo.com^
-||rr*.googlevideo.com^
-------------------------------
 ||youtube.com$removeparam=ad
 ||youtube.com$removeparam=ctier
 ||youtube.com$removeparam=adsid
