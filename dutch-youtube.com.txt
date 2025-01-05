@@ -184,3 +184,15 @@
 ||youtube.com^$script,domain=simpel.nl
 ||m.youtube.com/api/stats/ads^$domain=simpel.nl
 ||m.youtube.com/youtubei/v1/log_event^$domain=simpel.nl
+--------------------------------------------------------
+||ads.kevintimmerdaytrading.nl^
+||tracking.kevintimmerdaytrading.nl^
+||media.kevintimmerdaytrading.nl^
+||googlevideo.com^$domain=kevintimmerdaytrading.nl
+||youtube.com/get_midroll_info^$domain=kevintimmerdaytrading.nl
+||youtube.com/api/stats/ads^
+||kevintimmerdaytrading.nl^$popup
+||kevintimmerdaytrading.nl^$third-party
+||youtube.com^$script,domain=kevintimmerdaytrading.nl
+||m.youtube.com/api/stats/ads^$domain=kevintimmerdaytrading.nl
+||m.youtube.com/youtubei/v1/log_event^$domain=kevintimmerdaytrading.nl
