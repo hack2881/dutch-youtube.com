@@ -8,6 +8,16 @@
 ||m.youtube.com/youtubei/v1/log_event^
 ||m.youtube.com/youtubei/v1/advertiser^
 ----------------------------------------
+||s.youtube.com^$removeparam=ad
+||s.youtube.com^$removeparam=adsid
+||s.youtube.com^$removeparam=utm_source
+----------------------------------------
+||s.youtube.com/get_video_info^
+||s.youtube.com/get_midroll_info^
+||s.youtube.com/api/stats/ads^
+||s.youtube.com/youtubei/v1/log_event^
+||s.youtube.com/youtubei/v1/advertiser^
+----------------------------------------
 ||play.google.com/log^
 ||play.google.com/store/ad^
 ||play.googleapis.com^
