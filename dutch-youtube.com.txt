@@ -76,7 +76,6 @@
 ||m.youtube.com/youtubei/v1/log_event^$domain=temu.com
 ||m-temu-com.trafficmanager.net/ads^
 ||m-temu-com.trafficmanager.net/api/ads^
-||m-temu-com.trafficmanager.net^$important
 -------------------------------------------------------
 ||ads.odido.nl^
 ||tracking.odido.nl^
