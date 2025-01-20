@@ -6,8 +6,6 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 # Blokkeer advertenties op YouTube
 
 127.0.0.1 play.google.com
-127.0.0.1 youtube.com
-127.0.0.1 www.youtube.com
 127.0.0.1 youtu.be
 
 # Advertentie-domeinen gerelateerd aan YouTube
