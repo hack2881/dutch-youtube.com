@@ -1,1 +1,40 @@
+Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bestand om advertenties en tracking te blokkeren voor YouTube, inclusief de varianten van de YouTube-URL's die je hebt genoemd:
 
+### Te blokkeren domeinen voor YouTube:
+
+```
+# Blokkeer advertenties op YouTube
+127.0.0.1 youtube.com
+127.0.0.1 youtu.be
+127.0.0.1 m.youtube.com
+127.0.0.1 www.youtube.com
+
+# Advertentie-domeinen gerelateerd aan YouTube
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ads.youtube.com
+127.0.0.1 adservices.google.com
+127.0.0.1 video-stats.l.google.com
+127.0.0.1 s.youtube.com
+127.0.0.1 r.youtube.com
+127.0.0.1 youtube.googleapis.com
+
+# Algemene advertentiedomeinen
+127.0.0.1 ads.yieldmanager.com
+127.0.0.1 adserver.adtechus.com
+127.0.0.1 ads1.g.doubleclick.net
+127.0.0.1 ads2.g.doubleclick.net
+127.0.0.1 ads3.g.doubleclick.net
+127.0.0.1 ads4.g.doubleclick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+
+# Tracking en analytics domeinen
+127.0.0.1 analytics.google.com
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 google-analytics.com
+
+# Sociale media tracking
+127.0.0.1 connect.facebook.net
+127.0.0.1 platform.twitter.com
