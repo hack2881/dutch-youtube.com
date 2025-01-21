@@ -17,6 +17,7 @@ video-stats.l.google.com
 s.youtube.com
 r.youtube.com
 youtube.googleapis.com
+ytimg.com
 
 # Algemene advertentiedomeinen
 ads.yieldmanager.com
