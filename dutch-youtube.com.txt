@@ -1,7 +1,3 @@
-### Te blokkeren domeinen voor YouTube:
-# Blokkeer advertenties op YouTube
-
-
 # Advertentie-domeinen gerelateerd aan YouTube
 play.google.com^
 googleads.g.doubleclick.net
