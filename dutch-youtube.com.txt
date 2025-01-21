@@ -2,7 +2,37 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 
 ### Te blokkeren domeinen voor YouTube:
 
-```
+
 # Blokkeer advertenties op YouTube
 
-||play.google.com^$important
+
+# Advertentie-domeinen gerelateerd aan YouTube
+play.google.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+ad.doubleclick.net
+ads.youtube.com
+adservices.google.com
+video-stats.l.google.com
+s.youtube.com
+r.youtube.com
+youtube.googleapis.com
+
+# Algemene advertentiedomeinen
+ads.yieldmanager.com
+adserver.adtechus.com
+ads1.g.doubleclick.net
+ads2.g.doubleclick.net
+ads3.g.doubleclick.net
+ads4.g.doubleclick.net
+adclick.g.doubleclick.net
+pubads.g.doubleclick.net
+
+# Tracking en analytics domeinen
+analytics.google.com
+stats.g.doubleclick.net
+google-analytics.com
+
+# Sociale media tracking
+connect.facebook.net
+platform.twitter.com
