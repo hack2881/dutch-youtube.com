@@ -1,8 +1,4 @@
-Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bestand om advertenties en tracking te blokkeren voor YouTube, inclusief de varianten van de YouTube-URL's die je hebt genoemd:
-
 ### Te blokkeren domeinen voor YouTube:
-
-
 # Blokkeer advertenties op YouTube
 
 
