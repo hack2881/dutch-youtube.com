@@ -13,7 +13,6 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 ||adservices*.google.com^
 ||s*.youtube.com^
 ||r*.youtube.com^
-||youtube*.googleapis.com^
 
 # Algemene advertentiedomeinen
 ||ads*.yieldmanager.com^
