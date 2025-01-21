@@ -205,3 +205,25 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+
+!======== shopping ads ========
+
+||bol.com^$important
+||shein.com^$important
+||app.shein.com^$important
+||nl.shein.com^$important
+||temu.com^$important
+||m-temu-com.trafficmanager.net^$important
+||aliexpress.com^$important
+||amazon.com^$important
+||amazon.nl^$important
+||ebay.com^$important
+||zalando.nl^$important
+||wish.com^$important
+||etsy.com^$important
+||ikea.com^$important
+||coolblue.nl^$important
+||mediamarkt.nl^$important
+||vinted.nl^$important
+||wehkamp.nl^$important
+||marktplaats.nl^$important
