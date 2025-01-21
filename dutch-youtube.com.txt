@@ -115,6 +115,7 @@
 
 ! --- YouTube
 ||ads.youtube.com^
+||play.google.com^
 
 ! --- TikTok
 ||ads-api.tiktok.com^
