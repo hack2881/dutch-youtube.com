@@ -11,7 +11,6 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 ||googleads*.g.doubleclick.net^
 ||ad*.doubleclick.net^
 ||adservices*.google.com^
-||video-stats*.l.google.com^
 ||s*.youtube.com^
 ||r*.youtube.com^
 ||youtube*.googleapis.com^
