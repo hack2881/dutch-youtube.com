@@ -9,7 +9,6 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 
 # Advertentie-domeinen gerelateerd aan YouTube
 ||googleads*.g.doubleclick.net^
-||ad*.doubleclick.net^
 ||adservices*.google.com^
 ||s*.youtube.com^
 ||r*.youtube.com^
