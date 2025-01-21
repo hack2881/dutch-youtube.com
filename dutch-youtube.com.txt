@@ -5,32 +5,32 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 ```
 # Blokkeer advertenties op YouTube
 
-0.0.0.0 play.google.com
+||play*.google.com^
 
 # Advertentie-domeinen gerelateerd aan YouTube
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 adservices.google.com
-0.0.0.0 video-stats.l.google.com
-0.0.0.0 s.youtube.com
-0.0.0.0 r.youtube.com
-0.0.0.0 youtube.googleapis.com
+||googleads*.g.doubleclick.net^
+||ad*.doubleclick.net^
+||adservices*.google.com^
+||video-stats*.l.google.com^
+||s*.youtube.com^
+||r*.youtube.com^
+||youtube*.googleapis.com^
 
 # Algemene advertentiedomeinen
-0.0.0.0 ads.yieldmanager.com
-0.0.0.0 adserver.adtechus.com
-0.0.0.0 ads1.g.doubleclick.net
-0.0.0.0 ads2.g.doubleclick.net
-0.0.0.0 ads3.g.doubleclick.net
-0.0.0.0 ads4.g.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
+||ads*.yieldmanager.com^
+||adserver*.adtechus.com^
+||ads1*.g.doubleclick.net^
+||ads2*.g.doubleclick.net^
+||ads3*.g.doubleclick.net^
+||ads4*.g.doubleclick.net^
+||adclick*.g.doubleclick.net^
+||pubads*.g.doubleclick.net^
 
 # Tracking en analytics domeinen
-0.0.0.0 analytics.google.com
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 google-analytics.com
+||analytics*.google.com^
+||stats*.g.doubleclick.net^
+||google-analytics*.com^
 
 # Sociale media tracking
-0.0.0.0 connect.facebook.net
-0.0.0.0 platform.twitter.com
+||connect*.facebook.net^
+||platform*.twitter.com^
