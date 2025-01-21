@@ -1,4 +1,4 @@
-# Advertentie-domeinen gerelateerd aan YouTube
+Advertentie-domeinen gerelateerd aan YouTube
 play.google.com^
 googleads.g.doubleclick.net
 pagead2.googlesyndication.com
@@ -13,7 +13,7 @@ ytimg.com
 gvt2.com
 rr4---sn-32o-1the.googlevideo.com
 
-# Algemene advertentiedomeinen
+Algemene advertentiedomeinen
 ads.yieldmanager.com
 adserver.adtechus.com
 ads1.g.doubleclick.net
@@ -23,11 +23,11 @@ ads4.g.doubleclick.net
 adclick.g.doubleclick.net
 pubads.g.doubleclick.net
 
-# Tracking en analytics domeinen
+Tracking en analytics domeinen
 analytics.google.com
 stats.g.doubleclick.net
 google-analytics.com
 
-# Sociale media tracking
+Sociale media tracking
 connect.facebook.net
 platform.twitter.com
