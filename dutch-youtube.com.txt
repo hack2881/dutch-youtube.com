@@ -5,4 +5,4 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 ```
 # Blokkeer advertenties op YouTube
 
-||play*.google.com^
+|play*.google.com^
