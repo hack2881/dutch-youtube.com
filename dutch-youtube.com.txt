@@ -7,7 +7,7 @@ Hier is een specifieke lijst van domeinen die je kunt toevoegen aan je hosts-bes
 
 
 # Advertentie-domeinen gerelateerd aan YouTube
-|play.google.com^
+||play.google.com^
 googleads.g.doubleclick.net
 pagead2.googlesyndication.com
 ad.doubleclick.net
