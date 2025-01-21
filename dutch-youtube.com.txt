@@ -18,6 +18,7 @@ s.youtube.com
 r.youtube.com
 youtube.googleapis.com
 ytimg.com
+gvt2.com
 
 # Algemene advertentiedomeinen
 ads.yieldmanager.com
