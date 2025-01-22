@@ -1,6 +1,5 @@
 ! --------- YOUTUBE ALGEMEEN ---------
-||youtube.com^$important
-||www.youtube.com^$important
+
 ||m.youtube.com^$important
 ||youtubei.googleapis.com^$important
 ||youtubeadservices.com^$important
