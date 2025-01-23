@@ -23,6 +23,8 @@
 ||rr*---sn-*.googlevideo.com^$important
 ||gvt2.com^$important
 ||beacons*.gvt3.com^$important
+||googlevideo.com^$domain=temu.com
+||googlevideo.com^$domain=*.temu.com
 ||youtube.com^$domain=temu.com
 ||youtube.com^$domain=*.temu.com
 ||youtube.com^$domain=ads.temu.com
