@@ -1,5 +1,4 @@
 ! --------- YOUTUBE ALGEMEEN ---------
-
 ||m.youtube.com^$important
 ||youtubei.googleapis.com^$important
 ||youtubeadservices.com^$important
@@ -24,6 +23,9 @@
 ||rr*---sn-*.googlevideo.com^$important
 ||gvt2.com^$important
 ||beacons*.gvt3.com^$important
+||youtube.com^$domain=temu.com
+||youtube.com^$domain=*.temu.com
+||youtube.com^$domain=ads.temu.com
 
 ! --------- YOUTUBE APP ---------
 ||ytimg.com^$important
