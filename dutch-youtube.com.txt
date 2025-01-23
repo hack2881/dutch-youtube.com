@@ -6,7 +6,6 @@
 ! --------- YOUTUBE VIDEOADVERTENTIES ---------
 ||googlevideo.com^$important
 ||*.googlevideo.com^$important
-||rr4---sn-32o-1the.googlevideo.com^$important
 ||youtubei.googleapis.com/v1/log_event^$important
 ||youtubei.googleapis.com/v1/ads^$important
 ||rr1---sn-32o-1the.googlevideo.com^$important
