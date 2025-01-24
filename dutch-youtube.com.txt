@@ -63,6 +63,12 @@
 ||bol.com^$important
 ||play.google.com^$important
 ||rr4---sn-32o-1the.googlevideo.com^$important
+||s.youtube.com/api/stats/ads
+||s.youtube.com/api/stats/playback
+||*.youtube.com/api/stats/ads*
+||youtube.com/api/stats/qoe?adcontext=
+||youtube.com/youtubei/v1/ads/*
+||youtube.com/get_midroll_info
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 ||nl.youtube.com^$important
