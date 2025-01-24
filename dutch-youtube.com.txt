@@ -8,25 +8,16 @@
 ||*.googlevideo.com^$important
 ||youtubei.googleapis.com/v1/log_event^$important
 ||youtubei.googleapis.com/v1/ads^$important
-||rr1---sn-32o-1the.googlevideo.com^$important
-||rr2---sn-32o-1the.googlevideo.com^$important
-||rr3---sn-32o-1the.googlevideo.com^$important
-||rr4---sn-32o-1the.googlevideo.com^$important
-||rr5---sn-32o-1the.googlevideo.com^$important
-||r1---sn-32o-1the.googlevideo.com^$important
-||r2---sn-32o-1the.googlevideo.com^$important
-||r3---sn-32o-1the.googlevideo.com^$important
-||r4---sn-32o-1the.googlevideo.com^$important
-||r5---sn-32o-1the.googlevideo.com^$important
+||*.googlevideo.com^$domain=~youtube.com
+||rr1---sn-*.googlevideo.com^
+||rr2---sn-*.googlevideo.com^
+||rr3---sn-*.googlevideo.com^
+||rr4---sn-*.googlevideo.com^
+||sn-*.googlevideo.com^
 ||sn-[a-z0-9]*.googlevideo.com^$important
 ||rr*---sn-*.googlevideo.com^$important
 ||gvt2.com^$important
 ||beacons*.gvt3.com^$important
-||googlevideo.com^$domain=temu.com
-||googlevideo.com^$domain=*.temu.com
-||youtube.com^$domain=temu.com
-||youtube.com^$domain=*.temu.com
-||youtube.com^$domain=ads.temu.com
 
 ! --------- YOUTUBE APP ---------
 ||ytimg.com^$important
