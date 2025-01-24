@@ -78,6 +78,12 @@
 ||yt3.ggpht.com^$image
 
 ! --------- OVERIGE GERELATEERDE URL'S ---------
+||youtube.com^$removeparam=sp
+||youtube.com/get_video_info?*&adformat=
+||youtube.com/api/stats/ads*
+||youtube.com/ptracking
+||youtube.com/pagead/*
+||youtube.com/generate_204
 ||clients1.google.com^$important
 ||clients2.google.com^$important
 ||clients3.google.com^$important
