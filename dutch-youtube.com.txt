@@ -84,9 +84,9 @@
 ||yt3.ggpht.com^$image
 
 ! --------- OVERIGE GERELATEERDE URL'S ---------
-youtube.com##.ytd-video-renderer:has(span:contains("Temu"))
-youtube.com##.ytd-display-ad-renderer:has-text("Temu")
-youtube.com##.ytp-ad-module:has-text("Temu")
+||youtube.com##.ytd-video-renderer:has(span:contains("Temu"))
+||youtube.com##.ytd-display-ad-renderer:has-text("Temu")
+||youtube.com##.ytp-ad-module:has-text("Temu")
 ||youtube.com^$removeparam=sp
 ||youtube.com/get_video_info?*&adformat=
 ||youtube.com/api/stats/ads*
