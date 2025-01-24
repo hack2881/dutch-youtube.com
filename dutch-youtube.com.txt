@@ -1,7 +1,6 @@
 ! --------- YOUTUBE ALGEMEEN ---------
 |youtube.com^$important
 |www.youtube.com^$important
-||m.youtube.com^$important
 ||youtubei.googleapis.com^$important
 ||youtubeadservices.com^$important
 
@@ -41,7 +40,15 @@
 ||beacons*.gvt3.com^$important
 
 ! --------- YOUTUBE APP ---------
-||ytimg.com^$important
+||ytimg.com^$important||m.youtube.com^$important
+||s.youtube.com^$important
+||youtubei.googleapis.com^$important
+||youtube.googleapis.com^$important
+||googlevideo.com^$important
+||*.googlevideo.com^$important
+||video-stats.video.google.com^$important
+||ad.doubleclick.net^$important
+||pagead.l.doubleclick.net^$important
 ||pagead2.googlesyndication.com^$important
 ||googleads.g.doubleclick.net^$important
 ||adservice.google.com^$important
@@ -52,16 +59,25 @@
 ||ad.doubleclick.net^$important
 ||doubleclick.net^$important
 ||googlesyndication.com^$important
+||m-temu-com.trafficmanager.net^$important
+||bol.com^$important
+||play.google.com^$important
+||rr4---sn-32o-1the.googlevideo.com^$important
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 ||nl.youtube.com^$important
 ||youtube.nl^$important
+||youtube.co.uk^$important
+||youtube.de^$important
+||youtube.fr^$important
+
+! --------- Mogelijke toekomstige advertentiebronnen ---------
+||ads.youtube.com^$important
+||ads.youtube.googleapis.com^$important
+||csi.gstatic.com^
+||yt3.ggpht.com^$image
 
 ! --------- OVERIGE GERELATEERDE URL'S ---------
-||s.youtube.com^$important
-||static.doubleclick.net^$important
-||video-stats.video.google.com^$important
-||redirector.googlevideo.com^$important
 ||clients1.google.com^$important
 ||clients2.google.com^$important
 ||clients3.google.com^$important
@@ -83,10 +99,6 @@
 ||s.youtube.com/youtubei/v1/log_event^
 ||s.youtube.com/youtubei/v1/advertiser^
 ----------------------------------------
-||play.google.com/log^
-||play.google.com/store/ad^
-||play.googleapis.com^
-||gstatic.com/play^
 ||m.youtube.com^$removeparam=adsid
 ||m.youtube.com^$removeparam=adformat
 ||m.youtube.com^$removeparam=play.google.com
