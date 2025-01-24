@@ -18,6 +18,8 @@
 ||rr*---sn-*.googlevideo.com^$important
 ||gvt2.com^$important
 ||beacons*.gvt3.com^$important
+||googlevideo.com^$dnsrewrite=NOERROR;
+/^rr[0-9]---sn-[a-z0-9\-]+\.googlevideo\.com$/
 
 ! --------- YOUTUBE APP ---------
 ||ytimg.com^$important
