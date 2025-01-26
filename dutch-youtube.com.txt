@@ -72,7 +72,7 @@
 ||youtube.com/get_midroll_info
 ||jnn-pa.googleapis.com^$important
 ||gstatic.com^$important
-||google.com^$important
+|google.com^$important
 ||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
 
