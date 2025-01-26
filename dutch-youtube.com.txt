@@ -70,7 +70,6 @@
 ||youtube.com/api/stats/qoe?adcontext=
 ||youtube.com/youtubei/v1/ads/*
 ||youtube.com/get_midroll_info
-||jnn-pa.googleapis.com^$important
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 ||nl.youtube.com^$important
