@@ -37,6 +37,11 @@
 ||sn-ab5l6.googlevideo.com^
 ||sn-32o-1the.googlevideo.com^
 ||gvt2.com^$important
+||rr1---sn-32o-1the.gvt1.com^$important
+||rr2---sn-32o-1the.gvt1.com^$important
+||rr3---sn-32o-1the.gvt1.com^$important
+||rr4---sn-32o-1the.gvt1.com^$important
+||rr5---sn-32o-1the.gvt1.com^$important
 ||beacons*.gvt3.com^$important
 
 ! --------- YOUTUBE APP ---------
