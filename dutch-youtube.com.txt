@@ -40,7 +40,7 @@
 ||beacons*.gvt3.com^$important
 
 ! --------- YOUTUBE APP ---------
-||ytimg.com^$important
+|ytimg.com^$important
 ||m.youtube.com^$important
 ||s.youtube.com^$important
 ||youtubei.googleapis.com^$important
