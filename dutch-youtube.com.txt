@@ -40,7 +40,8 @@
 ||beacons*.gvt3.com^$important
 
 ! --------- YOUTUBE APP ---------
-||ytimg.com^$important||m.youtube.com^$important
+||ytimg.com^$important
+||m.youtube.com^$important
 ||s.youtube.com^$important
 ||youtubei.googleapis.com^$important
 ||youtube.googleapis.com^$important
@@ -69,6 +70,8 @@
 ||youtube.com/api/stats/qoe?adcontext=
 ||youtube.com/youtubei/v1/ads/*
 ||youtube.com/get_midroll_info
+||jnn-pa.googleapis.com^$important
+||gstatic.com^$important
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 ||nl.youtube.com^$important
