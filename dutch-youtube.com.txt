@@ -72,6 +72,7 @@
 ||youtube.com/get_midroll_info
 ||jnn-pa.googleapis.com^$important
 ||gstatic.com^$important
+||google.com^$important
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 ||nl.youtube.com^$important
