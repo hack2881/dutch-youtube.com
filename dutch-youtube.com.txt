@@ -353,3 +353,41 @@
 ||youtube.com^$script,domain=speedyfindings.net
 ||m.youtube.com/api/stats/ads^$domain=speedyfindings.net
 ||m.youtube.com/youtubei/v1/log_event^$domain=speedyfindings.net
+
+! YouTube App AdBlock Filter - Laatste update: 2025
+! Blokkeert advertenties in de YouTube-app, inclusief gesponsorde content
+! -------------------------------------------
+
+||youtube.com/api/stats/qoe?*adformat=
+||youtube.com/api/stats/ads?*
+||youtube.com/get_midroll_info?*
+||youtube.com/pagead/lvz?*
+||youtube.com/pagead/conversion/*
+||youtube.com/youtubei/v1/player/ad*
+||youtube.com/youtubei/v1/advertiser/*
+||youtube.com/youtubei/v1/log_event?*
+
+||m.youtube.com/api/stats/qoe?*adformat=
+||m.youtube.com/api/stats/ads?*
+||m.youtube.com/get_midroll_info?*
+||m.youtube.com/pagead/lvz?*
+||m.youtube.com/pagead/conversion/*
+||m.youtube.com/youtubei/v1/player/ad*
+||m.youtube.com/youtubei/v1/advertiser/*
+||m.youtube.com/youtubei/v1/log_event?*
+
+||r*.googlevideo.com^
+||sn-*.googlevideo.com^
+||googlevideo.com/gen_204?atyp=*
+||googlevideo.com/initplayback?*
+
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+
+! Optioneel: Blokkeer gesponsorde content en specifieke adverteerders
+||temu.com^
+||ziggo.nl^
+||bol.com^
+||odido.nl^
+||tradeacademy.nl^
+||kevintimmerdaytrading.nl^
