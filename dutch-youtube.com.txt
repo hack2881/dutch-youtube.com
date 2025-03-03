@@ -391,3 +391,29 @@
 ||odido.nl^
 ||tradeacademy.nl^
 ||kevintimmerdaytrading.nl^
+
+! YouTube Gesponsord Ad Block - Laatste update: 2025
+! Blokkeert gesponsorde content en advertenties in de YouTube-app
+! -------------------------------------------
+
+! 🔹 Blokkeer gesponsorde content in de feed
+youtube.com##ytd-rich-grid-media-skeleton
+youtube.com##ytd-promoted-video-renderer
+youtube.com##ytd-ad-slot-renderer
+youtube.com##ytd-reel-shelf-renderer:has-text(Gesponsord)
+youtube.com##ytd-video-renderer:has-text(Gesponsord)
+youtube.com##ytd-compact-video-renderer:has-text(Gesponsord)
+youtube.com##ytd-rich-item-renderer:has-text(Gesponsord)
+
+! 🔹 Blokkeer gesponsorde reacties
+youtube.com##ytd-comment-renderer:has-text(Gesponsord)
+youtube.com##ytd-comment-thread-renderer:has-text(Gesponsord)
+
+! 🔹 Blokkeer gesponsorde communityposts
+youtube.com##ytd-backstage-post-thread-renderer:has-text(Gesponsord)
+youtube.com##ytd-backstage-post-renderer:has-text(Gesponsord)
+
+! 🔹 Blokkeer gesponsorde content in Shorts & Livestreams
+youtube.com##ytd-reel-video-renderer:has-text(Gesponsord)
+youtube.com##ytd-thumbnail-overlay-time-status-renderer:has-text(Gesponsord)
+youtube.com##ytd-badge-supported-renderer:has-text(Gesponsord)
