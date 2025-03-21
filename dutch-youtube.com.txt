@@ -123,7 +123,6 @@
 ||m.youtube.com^$removeparam=play.google.com
 ||youtube.com$redirect=nooptext,script,domain=play.google.com
 -----------------------------
-|play.google.com^
 ||play-lh.googleusercontent.com^
 ||lh3.googleusercontent.com^$domain=youtube.com
 -------------------------------------------------
